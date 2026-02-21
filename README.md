@@ -15,6 +15,6 @@ A web-based Expense Tracker built using Flask.
 - SQLite
 
 ## Live Demo
-https://expense-tracker-xwhm.onrender.com
+https://expense-tracker-1-e7j1.onrender.com
 
 > Note: Free hosting – first load may take some time.
